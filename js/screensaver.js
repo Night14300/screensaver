@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", function() {
     var lines = [ ];
 
     for (var i = 0; i < 100; i++) {
-        lines[i] = new Line(234, 356, 468, 579, 3, 1, 1, 6, "#FF00CA");
+        lines[i] = new Line(234, 356, 468, 579, 3, 1, 1, 6, "#00FA7A");
     }
 
     function draw() {
